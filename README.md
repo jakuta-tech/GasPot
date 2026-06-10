@@ -324,3 +324,5 @@ GasPot.py
 ## License
 
 [CC BY-NC-SA 4.0](LICENSE.md) — Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
+
+[GasPot](https://github.com/sjhilt/GasPot) © 2015 by [Stephen Hilt](https://github.com/sjhilt) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) ![CC](https://mirrors.creativecommons.org/presskit/icons/cc.svg) ![BY](https://mirrors.creativecommons.org/presskit/icons/by.svg) ![NC](https://mirrors.creativecommons.org/presskit/icons/nc.svg) ![SA](https://mirrors.creativecommons.org/presskit/icons/sa.svg)
